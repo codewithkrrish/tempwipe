@@ -1,0 +1,17 @@
+[
+  "tests/test_tempwipe.py::test_clean_dry_run_deletes_nothing",
+  "tests/test_tempwipe.py::test_clean_real_deletes_files_keeps_root",
+  "tests/test_tempwipe.py::test_clean_refuses_outside_root",
+  "tests/test_tempwipe.py::test_cli_bad_flag_exits_2",
+  "tests/test_tempwipe.py::test_cli_json_report",
+  "tests/test_tempwipe.py::test_cli_rejects_negative_older_than",
+  "tests/test_tempwipe.py::test_dedupe_targets_drops_duplicate_path",
+  "tests/test_tempwipe.py::test_exclude_glob",
+  "tests/test_tempwipe.py::test_extra_target_rejects_missing_dir",
+  "tests/test_tempwipe.py::test_format_size",
+  "tests/test_tempwipe.py::test_older_than_filter",
+  "tests/test_tempwipe.py::test_scan_counts_files_and_bytes",
+  "tests/test_tempwipe.py::test_scan_empty_dir",
+  "tests/test_tempwipe.py::test_scan_missing_dir_yields_empty_report",
+  "tests/test_tempwipe.py::test_symlink_not_followed"
+]
